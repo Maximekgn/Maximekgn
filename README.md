@@ -1,5 +1,5 @@
 # 💫 About Me: 
-JavaScript , blockchain  Enthusiast 🚀<br>Looking to collaborate on any projects 🤝<br>Currently learning Web development 📚<br>Fun fact: Avid gamer 🎮 <br> Hacker ☠️ 
+JavaScript , blockchain  Enthusiast 🚀<br>Looking to collaborate on any projects 🤝<br>Currently learning Web development 📚<br>Fun fact: Avid gamer 🎮 <br> Hacker ☠️
 
 
 ## 🌐 Socials:
