@@ -1,6 +1,5 @@
 # 💫 About Me: 
-JavaScript , blockchain  Enthusiast 🚀<br>Looking to collaborate on any projects 🤝<br>Currently learning Web development 📚<br>Fun fact: Avid gamer 🎮 <br> Hacker ☠️
-
+JavaScript , blockchain  Enthusiast 🚀<br>Looking to collaborate on any projects 🤝<br>Currently learning Web development 📚<br>Fun fact: Avid gamer 🎮 <br> Hacker ☠️ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mxmkgn) 
