@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There,+it's+me+Alex!;Your+friendly+neighborhood+developer.;😉" alt="Intro" /> 
 </p>
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Alex Sunday</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm M. Maxime KOGON</h1>
 
 ❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
 This passion drives me with a knowledge-seeking mindset!
@@ -12,7 +12,7 @@ This passion drives me with a knowledge-seeking mindset!
 ### 🚀 Experience:
 
 - **Designing and building web applications:**  
-  E-commerce, Landing Pages, Forms, Company Platforms... many, many more!
+   Landing Pages, Mobile Apps, Company Platforms... many, many more! To solve problems and make life easier!
 
 ### 🎯 My Goal:
 
@@ -61,7 +61,7 @@ Delivering exceptional value to clients daily while fostering a deep appreciatio
           <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" />
           <br>Flask
         </td>
-    <tr/>
+    </tr>
     <!-- Second Row: Backend and databases-->
     <tr>
         <td align="center" width="90">
@@ -80,6 +80,7 @@ Delivering exceptional value to clients daily while fostering a deep appreciatio
           <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
           <br>SQLite
         </td>
+    </tr>
     <!-- Third Row: Design and Extra -->
     <tr>
       <td align="center" width="90">
