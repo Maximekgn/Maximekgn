@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I am a geek<br>💡 Passionate about everything related to technology<br>💻 JavaScript / TypeScript Developer<br>🛡️ Currently training in Cybersecurity<br><br>
+💡 Passionate about everything related to technology<br>💻Fullstack Engineer <br> JavaScript / TypeScript Developer<br>🛡️Cybersecurity Lover <br>🛡️Data Enthousiast <br><br>
 
 
 ## 🌐 Socials:
