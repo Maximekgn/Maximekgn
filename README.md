@@ -2,8 +2,6 @@
 
 Full-stack developer and software engineering student at **Polytech Nice Sophia** (Université Côte d'Azur). I build web and mobile applications, from the API to the deployment.
 
-📍 Between Lomé 🇹🇬 and Nice 🇫🇷
-🔎 Looking for a **work-study position (alternance)** in full-stack development
 
 ## 🛠️ Tech Stack
 
